@@ -1,0 +1,6 @@
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\HaromszogKerulete\bin\Debug\HaromszogKerulete.exe
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\HaromszogKerulete\bin\Debug\HaromszogKerulete.pdb
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\HaromszogKerulete\obj\Debug\HaromszogKerulete.csprojAssemblyReference.cache
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\HaromszogKerulete\obj\Debug\HaromszogKerulete.csproj.CoreCompileInputs.cache
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\HaromszogKerulete\obj\Debug\HaromszogKerulete.exe
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\HaromszogKerulete\obj\Debug\HaromszogKerulete.pdb

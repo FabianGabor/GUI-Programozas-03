@@ -1,0 +1,6 @@
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Lotto\bin\Debug\Lotto.exe
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Lotto\bin\Debug\Lotto.pdb
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Lotto\obj\Debug\Lotto.csprojAssemblyReference.cache
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Lotto\obj\Debug\Lotto.exe
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Lotto\obj\Debug\Lotto.pdb

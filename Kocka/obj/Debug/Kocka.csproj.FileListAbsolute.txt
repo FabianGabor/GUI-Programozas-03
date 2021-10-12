@@ -1,0 +1,6 @@
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Kocka\bin\Debug\Kocka.exe
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Kocka\bin\Debug\Kocka.pdb
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Kocka\obj\Debug\Kocka.csprojAssemblyReference.cache
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Kocka\obj\Debug\Kocka.csproj.CoreCompileInputs.cache
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Kocka\obj\Debug\Kocka.exe
+C:\Users\info\Documents\Coding\GUI Programozas\GUI-03\Kocka\obj\Debug\Kocka.pdb
